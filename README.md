@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sndr157
+- 👋 Hi, I’m Sandra Calzada @sndr157
 - 👀 I’m interested in learning and collaborate
 - 🌱 I’m currently learning computer science and full stack development 
 - 💞️ I’m looking to collaborate on any project, after I finish my programs
